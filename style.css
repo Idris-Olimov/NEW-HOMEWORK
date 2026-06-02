@@ -3,7 +3,8 @@
     font-family: sans-serif;
 }
 body:hover{
-    border: 3px solid  rgb(94, 125, 218);
+    border: 1px solid  rgb(94, 125, 218);
+    background-color: #ffffff;
 }
 header{
     width: 80%;
@@ -32,9 +33,191 @@ li a{
     color: #000000;
     font-size: 25px;
 }
-.imgharom{
+.sec-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
     background-image: url(./images/vetyujn.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .p2{
     color: #d77474;
+}
+
+.sec-1 article {
+    width: 40%;
+}
+.h0{
+    font-size: 48px;
+    font-weight: bold;
+    font-weight: 700;
+}
+.p3{
+    color: #6c6c6c;
+    font-size: 16px;
+    font-weight: 400;
+}
+.button1{
+    color: #ffffff;
+    background-color: #ac1313;
+    padding: 8px 16px;
+    border: 5px solid #ac1313;
+}
+.p4{
+    color: #d77474;
+    font-size: 14px;
+    font-weight: 600;
+}
+.div{
+    text-align: center;
+}
+.h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 67px;
+}
+.Vasa{
+    background-color: #e4b366;
+    width: 240px;
+    height: 240px;
+    border-radius: 240px;
+    border: 30px solid #d9aa61;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.p5{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+}
+.mugie{
+    background-color: #f05b10;
+    width: 240px;
+    height: 240px;
+    border-radius: 240px;
+    border: 30px solid #e4560f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.plate{
+    background-color: #a21010;
+    width: 240px;
+    height: 240px;
+    border-radius: 240px;
+    border: 30px solid #9a0f0f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.divmain{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.h1{
+    font-size: 29px;
+    font-weight: 700;
+}
+.p6{
+    font-size: 14px;
+    color: #6c6c6c;
+    font-weight: 400;
+}
+.divsecond{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+}
+.divs{
+    width: 100%;
+    margin: 0 auto;
+}
+.h4{
+    font-size: 24px;
+    font-weight: 700;
+}
+.p7{
+    font-size: 14px;
+    font-weight: 400;
+    color: #6c6c6c;
+}
+.babu{
+    margin-left: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.p8{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000000;
+}
+.divb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.dfd{
+    margin-right: 600px;
+    width: 50%;
+}
+.p9{
+    color: #d77474;
+    font-size: 14px;
+    font-weight: 700;
+}
+.divc{
+    text-align: center;
+}
+.h7{
+    color: #000000;
+    font-size: 40px;
+    font-weight: 700;
+}
+.p10{
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+.p11{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6c6c6c;
+}
+.divo{
+    border: 1px solid #989898;
+    width: 24.4%;
+    box-shadow: 0 0 5px #6c6c6c;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.button2{
+    margin-left: 650px;
+    color: #ffffff;
+    padding: 8px 16px;
+    background-color: #ac1313;
+    text-align: center;
+}
+.divr{
+    width: 80%;
+    height: 80vh;
+    background-image: url(./images/vetyujn.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
